@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build",
+			"group": "build",
+			"type": "shell",
+			"command": "make oled.a",
+		},
+	]
+}
